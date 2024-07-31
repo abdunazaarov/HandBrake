@@ -432,7 +432,7 @@
 
 
 
-
+/* 
 @media (max-width: 500px) {
     .navbar__list{
         display: none;
@@ -489,7 +489,6 @@
         display: flex;
         gap: 20px;
         flex-direction: column;
-        /* flex-wrap: wrap; */
     }
     .input__hero-text{
         width: 100%;
@@ -539,3 +538,4 @@
         font-size: 12px;
     }
 }
+ */
