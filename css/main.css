@@ -98,13 +98,13 @@
 .hero__subtitle{
     font-size: 32px;
     font-weight: 400;
-    color: #3B4A6B;
+    color: white;
     margin: 8px 0 42px;
 }
 .hero__desc{
     font-size: 20px;
     font-weight: 400;
-    color: #3B4A6B;
+    color: white;
     margin-bottom: 24px;
 }
 .hero__btn{
@@ -114,7 +114,7 @@
     border-radius: 30px;
     border: 1px solid #F7BA0E;
     background-color: #F7BA0E;
-    color: #25488b;
+    color: white;
     font-size: 22px;
     font-weight: 500;
     transition: 0.3s;
