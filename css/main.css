@@ -115,6 +115,8 @@
     border: 1px solid #F7BA0E;
     background-color: #F7BA0E;
     color: white;
+    border: none;
+    background-color: #F7BA0E;
     font-size: 22px;
     font-weight: 500;
     transition: 0.3s;
@@ -444,6 +446,11 @@
     .card__item{
         padding: 16px;
         height: 120px;
+    .card__item p{
+        font-size: 16px;
+    }
+    .card__item{
+        padding: 16px;
     }
     .device__hero-image,
     .device__hero-text{
@@ -560,4 +567,4 @@
     .footer__flex p{
         font-size: 12px;
     }
-}
+}}
